@@ -1,0 +1,28 @@
+
+
+
+.container{
+    display: flex;
+    
+}
+    
+    
+   
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr  ;
+    grid-gap: 15px;
+}
+
+.cart-option{
+    border: 1px solid gray;
+}
+.cart{
+    background-color: rgb(44, 15, 30);
+    border: 1px solid grey;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    /* margin: 20px; */
+}

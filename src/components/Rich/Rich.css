@@ -1,0 +1,63 @@
+
+
+
+.card{
+    background-color:#9FE2BF
+
+    
+}
+.card-body{
+    color: rgb(3, 80, 35);
+    cursor: pointer;
+}
+.card-body h3:hover{
+    background-color: gray;
+}
+.facebook-icon{
+    
+    
+   
+   color: blue;
+   margin-left: 50px;
+    padding: 20px;
+    
+}
+
+
+
+   
+
+
+.btn-regular{
+    width: 200px;
+    
+    padding: 10px;
+    background: linear-gradient(to right, #ff512f, #dd2476); 
+    
+    color: rgb(243, 229, 219);
+    font-weight: bold;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    margin-left: 60px;
+}
+
+.images-circle{
+    width: 200px;
+    height:200px
+
+}
+
+.img-shape{
+    width: 200px;
+
+    height: 200px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+
+    
+
+
+

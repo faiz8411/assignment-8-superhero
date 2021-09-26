@@ -1,0 +1,17 @@
+.addcart{
+    margin: 10px;
+    color: antiquewhite;
+    
+}
+.addcart h4{
+    color: rgb(242, 248, 248);
+    font-weight: 900;
+}
+.donate-btn{
+    background-color: rgba(27, 189, 140, 0.507);
+    color: cornsilk;
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 5px;
+
+}
