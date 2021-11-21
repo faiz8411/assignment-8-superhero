@@ -19,7 +19,7 @@ const Rich = (props) => {
                 <img className="img-shape" src={img} alt="" />
                 <div class="card-body">
                     <h3 class="card-title">{name}</h3>
-                    <h5 class="card-text">live in: {country}</h5>
+                    <h5 class="card-text">live there: {country}</h5>
                     <h5 class="card-text">salary:${salary}</h5>
                     <h5>age:{age}</h5>
                     <h5>occupation:{job}</h5>
